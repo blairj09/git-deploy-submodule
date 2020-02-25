@@ -1,3 +1,6 @@
 [submodule "git-deploy-example"]
 	path = git-deploy-example
 	url = git@github.com:blairj09/git-deploy-example.git
+[submodule "plumbpkg"]
+	path = plumbpkg
+	url = git@github.com:sol-eng/plumbpkg.git
